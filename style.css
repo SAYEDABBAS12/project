@@ -1,0 +1,92 @@
+img
+{
+    width: 1300px;
+    border-radius: 9%;
+    height: 270px;
+    border-color: yellow;
+    border-style: double;
+    border-width: 10px;
+}
+body
+{
+    text-align: center;
+    background-color: #34ebb1;
+    z-index: 10;
+}
+#font
+{
+    font-size: 30px;
+    font-family: monospace;
+    color: coral;
+    background-color: white;
+    align-self: center;
+}
+#h2
+{
+    font-size: 40px;
+    font-family: monospace;
+    color: red;
+    background-color: white;
+}
+#black
+{
+    color: crimson;
+    font-size: 47px;
+    background-color: white;
+}
+#23
+{
+    color: #34ebe5;
+}
+p
+{
+    font-size: 40px;
+    border-width: 20px;
+    border-style: double;
+    background-color: white;
+    font-variant: inherit;
+    font-style: oblique;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+span
+{
+    font: size 4px;
+}
+#welcome
+{
+    border-radius: 20px;
+    border-color: greenyellow;
+    border-style: inset;
+}
+title
+{
+    text-decoration-color: bisque;
+    background-color: white;
+}
+h1
+{
+    background-color: white;
+}
+.menu
+{
+    float: right;
+}
+.links
+{
+    list-style:none;
+}
+span
+{
+    text-align: center;
+    background-color: ivory;
+}
+html
+{
+    scroll-behavior: smooth;
+}
+iframe
+{
+    border-style: groove;
+    box-sizing: border-box;
+    border-radius: 40px;
+}
